@@ -1,3 +1,12 @@
-.past {
-    background-color: gray;
+.form-control.past{
+ background-color: lightgray;
+ color: white;
+}
+.form-control.future{
+    background-color: lightgreen;
+    color: black;
+}
+.form-control.present{
+    background-color: lightcoral;
+    color: black;
 }
