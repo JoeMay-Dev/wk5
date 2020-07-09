@@ -1,6 +1,6 @@
 .form-control.past{
  background-color: lightgray;
- color: white;
+ color:black;
 }
 .form-control.future{
     background-color: lightgreen;
@@ -9,4 +9,14 @@
 .form-control.present{
     background-color: lightcoral;
     color: black;
+}
+.jumbotron.jumbotron-fluid{    
+    color: black;
+    background:#777;
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;     
+}
+.row{
+    padding: 2px;
 }
